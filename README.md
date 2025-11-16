@@ -27,8 +27,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/okeleyeayomide08/fem-blog-preview-card)
+- Live Site URL: [Live site URL here](https://fem-blog-preview-card-kappa.vercel.app/)
 
 ## My process
 
